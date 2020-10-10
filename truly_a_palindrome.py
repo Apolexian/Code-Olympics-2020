@@ -1,0 +1,1 @@
+is_palindrome = lambda phrase: phrase == phrase[::-1]; print("Nice username" if is_palindrome(str(input().strip())) else "UNACCEPTABLE")#)"ELBATPECCANU" esle )))(pirts.)(tupni(rts(emordnilap_si fi "emanresu eciN"(tnirp ;]1-::[esarhp == esarhp :esarhp adbmal = emordnilap_si
