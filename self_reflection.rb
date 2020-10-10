@@ -1,0 +1,1 @@
+print File.read(__FILE__).reverse
