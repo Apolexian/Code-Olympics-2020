@@ -1,0 +1,17 @@
+{
+  "name": "twillio_whatsapp_bot",
+  "version": "1.0.0",
+  "description": "its a cool bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "us",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "twilio": "^3.49.4"
+  }
+}
